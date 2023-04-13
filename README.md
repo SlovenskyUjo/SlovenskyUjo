@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm SlovenskyUjo</h1>
 <h3 align="center">I'm junior React developer. Here's my informations.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slovenskyujo" alt="slovenskyujo" /></a> </p>
-
 - 🔭 I’m currently working on [HideAndSeek](https://github.com/SlovenskyUjo/HideAndSeek)
 
 - 🌱 I’m currently learning **React**
@@ -23,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slovenskyujo&show_icons=true&locale=en&layout=compact" alt="slovenskyujo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slovenskyujo&" alt="slovenskyujo" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=slovenskyujo&" alt="slovenskyujo" /></p>
