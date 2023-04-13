@@ -14,9 +14,7 @@
 <h2 align="center">My GitHub summary</h2>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slovenskyujo&show_icons=true&hide_border=false&count_private=true&theme=apprentice" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slovenskyujo&show_icons=true&locale=en" alt="slovenskyujo" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
