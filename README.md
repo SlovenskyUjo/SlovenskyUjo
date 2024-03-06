@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm SlovenskyUjo</h1>
 <h3 align="center">I'm junior React developer. Here's my informations.</h3>
 
-- 🔭 I’m currently working on [HideAndSeek](https://github.com/SlovenskyUjo/HideAndSeek)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **VueJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SlovenskyUjo](https://github.com/SlovenskyUjo)
 
 - 💬 Ask me about **minecraft plugin**
-
-- ⚡ Fun fact **I'm Graphic Designer,Builder**
 
 <h2 align="center">My GitHub summary</h2>
 
