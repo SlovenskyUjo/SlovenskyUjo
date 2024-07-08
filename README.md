@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SlovenskyUjo](https://github.com/SlovenskyUjo)
 
-- 💬 Ask me about **minecraft plugin**
-
 <h2 align="center">My GitHub summary</h2>
 
 
