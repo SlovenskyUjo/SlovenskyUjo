@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/gennariogfx/">
+  <a href="https://www.instagram.com/slovenskyujo/">
     <img alt="Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" />
   </a>
 </p>
