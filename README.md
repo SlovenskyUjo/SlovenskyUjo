@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SlovenskyUjo</h1>
-<h3 align="center">I'm junior React developer. Here's my informations.</h3>
+<h3 align="center">Here's my informations.</h3>
 
 - 🌱 I’m FullStack website developer
 
