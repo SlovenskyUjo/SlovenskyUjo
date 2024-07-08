@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm SlovenskyUjo</h1>
 <h3 align="center">I'm junior React developer. Here's my informations.</h3>
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m FullStack website developer
+
+- 💬 I use **Laravel, VueJS, InertiaJS** most often
 
 - 👨‍💻 All of my projects are available at [https://github.com/SlovenskyUjo](https://github.com/SlovenskyUjo)
 
