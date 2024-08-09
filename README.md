@@ -5,7 +5,7 @@
 
 - 💬 I use **Laravel, React, InertiaJS** most often
 
-- 👨‍💻 All of my projects are available at [https://github.com/SlovenskyUjo](https://github.com/SlovenskyUjo)
+- 👨‍💻 All of my projects are available at [https://github.com/SlovenskyUjo]([https://github.com/SlovenskyUjo](https://github.com/SlovenskyUjo?tab=repositories))
 
 <h2 align="center">My GitHub summary</h2>
 
