@@ -3,7 +3,7 @@
 
 - 🌱 I’m FullStack website developer
 
-- 💬 I use **Laravel, VueJS, InertiaJS** most often
+- 💬 I use **Laravel, React, InertiaJS** most often
 
 - 👨‍💻 All of my projects are available at [https://github.com/SlovenskyUjo](https://github.com/SlovenskyUjo)
 
