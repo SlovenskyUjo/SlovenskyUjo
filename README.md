@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m FullStack website developer<br><br>💬 I use Laravel, React, InertiaJS most often
+🌱 I’m FullStack website developer<br><br>💬 I use **Laravel, React, InertiaJS** most often
 
 
 ## 🌐 Socials:
