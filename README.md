@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m FullStack website developer<br><br>💬 I use **Laravel, VueJS, InertiaJS** most often
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/slovenskyujo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/slovenskyujo) 
 
